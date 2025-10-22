@@ -1,0 +1,72 @@
+C:\Users\usuario\Desktop\CTEDA_2023\tpfinal\bin\Debug\net6.0-windows\tpfinal.exe
+C:\Users\usuario\Desktop\CTEDA_2023\tpfinal\bin\Debug\net6.0-windows\tpfinal.deps.json
+C:\Users\usuario\Desktop\CTEDA_2023\tpfinal\bin\Debug\net6.0-windows\tpfinal.runtimeconfig.json
+C:\Users\usuario\Desktop\CTEDA_2023\tpfinal\bin\Debug\net6.0-windows\tpfinal.dll
+C:\Users\usuario\Desktop\CTEDA_2023\tpfinal\bin\Debug\net6.0-windows\tpfinal.pdb
+C:\Users\usuario\Desktop\CTEDA_2023\tpfinal\bin\Debug\net6.0-windows\TextFieldParserStandard.dll
+C:\Users\usuario\Desktop\CTEDA_2023\tpfinal\obj\Debug\net6.0-windows\tpfinal.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\CTEDA_2023\tpfinal\obj\Debug\net6.0-windows\tpfinal.Form1.resources
+C:\Users\usuario\Desktop\CTEDA_2023\tpfinal\obj\Debug\net6.0-windows\tpfinal.Form2.resources
+C:\Users\usuario\Desktop\CTEDA_2023\tpfinal\obj\Debug\net6.0-windows\tpfinal.Consultas.resources
+C:\Users\usuario\Desktop\CTEDA_2023\tpfinal\obj\Debug\net6.0-windows\tpfinal.Inicio.resources
+C:\Users\usuario\Desktop\CTEDA_2023\tpfinal\obj\Debug\net6.0-windows\tpfinal.ListItem.resources
+C:\Users\usuario\Desktop\CTEDA_2023\tpfinal\obj\Debug\net6.0-windows\tpfinal.Properties.Resources.resources
+C:\Users\usuario\Desktop\CTEDA_2023\tpfinal\obj\Debug\net6.0-windows\tpfinal.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\CTEDA_2023\tpfinal\obj\Debug\net6.0-windows\tpfinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\CTEDA_2023\tpfinal\obj\Debug\net6.0-windows\tpfinal.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\CTEDA_2023\tpfinal\obj\Debug\net6.0-windows\tpfinal.AssemblyInfo.cs
+C:\Users\usuario\Desktop\CTEDA_2023\tpfinal\obj\Debug\net6.0-windows\tpfinal.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\CTEDA_2023\tpfinal\obj\Debug\net6.0-windows\tpfinal.csproj.CopyComplete
+C:\Users\usuario\Desktop\CTEDA_2023\tpfinal\obj\Debug\net6.0-windows\tpfinal.dll
+C:\Users\usuario\Desktop\CTEDA_2023\tpfinal\obj\Debug\net6.0-windows\refint\tpfinal.dll
+C:\Users\usuario\Desktop\CTEDA_2023\tpfinal\obj\Debug\net6.0-windows\tpfinal.pdb
+C:\Users\usuario\Desktop\CTEDA_2023\tpfinal\obj\Debug\net6.0-windows\tpfinal.genruntimeconfig.cache
+C:\Users\usuario\Desktop\CTEDA_2023\tpfinal\obj\Debug\net6.0-windows\ref\tpfinal.dll
+C:\Users\user\OneDrive\Julieta\Desktop\Complejidad\tpfinal (1)\tpfinal\tpfinal\obj\Debug\net6.0-windows\tpfinal.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Julieta\Desktop\Complejidad\tpfinal (1)\tpfinal\tpfinal\obj\Debug\net6.0-windows\tpfinal.dll
+C:\Users\user\OneDrive\Julieta\Desktop\Complejidad\tpfinal (1)\tpfinal\tpfinal\obj\Debug\net6.0-windows\refint\tpfinal.dll
+C:\Users\user\OneDrive\Julieta\Desktop\Complejidad\tpfinal (1)\tpfinal\tpfinal\obj\Debug\net6.0-windows\tpfinal.pdb
+C:\Users\user\OneDrive\Julieta\Desktop\Complejidad\tpfinal (1)\tpfinal\tpfinal\bin\Debug\net6.0-windows\tpfinal.exe
+C:\Users\user\OneDrive\Julieta\Desktop\Complejidad\tpfinal (1)\tpfinal\tpfinal\bin\Debug\net6.0-windows\tpfinal.deps.json
+C:\Users\user\OneDrive\Julieta\Desktop\Complejidad\tpfinal (1)\tpfinal\tpfinal\bin\Debug\net6.0-windows\tpfinal.runtimeconfig.json
+C:\Users\user\OneDrive\Julieta\Desktop\Complejidad\tpfinal (1)\tpfinal\tpfinal\bin\Debug\net6.0-windows\tpfinal.dll
+C:\Users\user\OneDrive\Julieta\Desktop\Complejidad\tpfinal (1)\tpfinal\tpfinal\bin\Debug\net6.0-windows\tpfinal.pdb
+C:\Users\user\OneDrive\Julieta\Desktop\Complejidad\tpfinal (1)\tpfinal\tpfinal\bin\Debug\net6.0-windows\TextFieldParserStandard.dll
+C:\Users\user\OneDrive\Julieta\Desktop\Complejidad\tpfinal (1)\tpfinal\tpfinal\obj\Debug\net6.0-windows\tpfinal.Form1.resources
+C:\Users\user\OneDrive\Julieta\Desktop\Complejidad\tpfinal (1)\tpfinal\tpfinal\obj\Debug\net6.0-windows\tpfinal.Form2.resources
+C:\Users\user\OneDrive\Julieta\Desktop\Complejidad\tpfinal (1)\tpfinal\tpfinal\obj\Debug\net6.0-windows\tpfinal.Consultas.resources
+C:\Users\user\OneDrive\Julieta\Desktop\Complejidad\tpfinal (1)\tpfinal\tpfinal\obj\Debug\net6.0-windows\tpfinal.Inicio.resources
+C:\Users\user\OneDrive\Julieta\Desktop\Complejidad\tpfinal (1)\tpfinal\tpfinal\obj\Debug\net6.0-windows\tpfinal.ListItem.resources
+C:\Users\user\OneDrive\Julieta\Desktop\Complejidad\tpfinal (1)\tpfinal\tpfinal\obj\Debug\net6.0-windows\tpfinal.Properties.Resources.resources
+C:\Users\user\OneDrive\Julieta\Desktop\Complejidad\tpfinal (1)\tpfinal\tpfinal\obj\Debug\net6.0-windows\tpfinal.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Julieta\Desktop\Complejidad\tpfinal (1)\tpfinal\tpfinal\obj\Debug\net6.0-windows\tpfinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Julieta\Desktop\Complejidad\tpfinal (1)\tpfinal\tpfinal\obj\Debug\net6.0-windows\tpfinal.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Julieta\Desktop\Complejidad\tpfinal (1)\tpfinal\tpfinal\obj\Debug\net6.0-windows\tpfinal.AssemblyInfo.cs
+C:\Users\user\OneDrive\Julieta\Desktop\Complejidad\tpfinal (1)\tpfinal\tpfinal\obj\Debug\net6.0-windows\tpfinal.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Julieta\Desktop\Complejidad\tpfinal (1)\tpfinal\tpfinal\obj\Debug\net6.0-windows\tpfinal.csproj.Up2Date
+C:\Users\user\OneDrive\Julieta\Desktop\Complejidad\tpfinal (1)\tpfinal\tpfinal\obj\Debug\net6.0-windows\tpfinal.genruntimeconfig.cache
+C:\Users\user\OneDrive\Julieta\Desktop\Complejidad\tpfinal (1)\tpfinal\tpfinal\obj\Debug\net6.0-windows\ref\tpfinal.dll
+C:\Users\maia2\OneDrive\Escritorio\tpfinalintento\tpfinal (1)\tpfinal\tpfinal\bin\Debug\net6.0-windows\tpfinal.exe
+C:\Users\maia2\OneDrive\Escritorio\tpfinalintento\tpfinal (1)\tpfinal\tpfinal\bin\Debug\net6.0-windows\tpfinal.deps.json
+C:\Users\maia2\OneDrive\Escritorio\tpfinalintento\tpfinal (1)\tpfinal\tpfinal\bin\Debug\net6.0-windows\tpfinal.runtimeconfig.json
+C:\Users\maia2\OneDrive\Escritorio\tpfinalintento\tpfinal (1)\tpfinal\tpfinal\bin\Debug\net6.0-windows\tpfinal.dll
+C:\Users\maia2\OneDrive\Escritorio\tpfinalintento\tpfinal (1)\tpfinal\tpfinal\bin\Debug\net6.0-windows\tpfinal.pdb
+C:\Users\maia2\OneDrive\Escritorio\tpfinalintento\tpfinal (1)\tpfinal\tpfinal\bin\Debug\net6.0-windows\TextFieldParserStandard.dll
+C:\Users\maia2\OneDrive\Escritorio\tpfinalintento\tpfinal (1)\tpfinal\tpfinal\obj\Debug\net6.0-windows\tpfinal.csproj.AssemblyReference.cache
+C:\Users\maia2\OneDrive\Escritorio\tpfinalintento\tpfinal (1)\tpfinal\tpfinal\obj\Debug\net6.0-windows\tpfinal.Form1.resources
+C:\Users\maia2\OneDrive\Escritorio\tpfinalintento\tpfinal (1)\tpfinal\tpfinal\obj\Debug\net6.0-windows\tpfinal.Form2.resources
+C:\Users\maia2\OneDrive\Escritorio\tpfinalintento\tpfinal (1)\tpfinal\tpfinal\obj\Debug\net6.0-windows\tpfinal.Consultas.resources
+C:\Users\maia2\OneDrive\Escritorio\tpfinalintento\tpfinal (1)\tpfinal\tpfinal\obj\Debug\net6.0-windows\tpfinal.Inicio.resources
+C:\Users\maia2\OneDrive\Escritorio\tpfinalintento\tpfinal (1)\tpfinal\tpfinal\obj\Debug\net6.0-windows\tpfinal.ListItem.resources
+C:\Users\maia2\OneDrive\Escritorio\tpfinalintento\tpfinal (1)\tpfinal\tpfinal\obj\Debug\net6.0-windows\tpfinal.Properties.Resources.resources
+C:\Users\maia2\OneDrive\Escritorio\tpfinalintento\tpfinal (1)\tpfinal\tpfinal\obj\Debug\net6.0-windows\tpfinal.csproj.GenerateResource.cache
+C:\Users\maia2\OneDrive\Escritorio\tpfinalintento\tpfinal (1)\tpfinal\tpfinal\obj\Debug\net6.0-windows\tpfinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maia2\OneDrive\Escritorio\tpfinalintento\tpfinal (1)\tpfinal\tpfinal\obj\Debug\net6.0-windows\tpfinal.AssemblyInfoInputs.cache
+C:\Users\maia2\OneDrive\Escritorio\tpfinalintento\tpfinal (1)\tpfinal\tpfinal\obj\Debug\net6.0-windows\tpfinal.AssemblyInfo.cs
+C:\Users\maia2\OneDrive\Escritorio\tpfinalintento\tpfinal (1)\tpfinal\tpfinal\obj\Debug\net6.0-windows\tpfinal.csproj.CoreCompileInputs.cache
+C:\Users\maia2\OneDrive\Escritorio\tpfinalintento\tpfinal (1)\tpfinal\tpfinal\obj\Debug\net6.0-windows\tpfinal.csproj.Up2Date
+C:\Users\maia2\OneDrive\Escritorio\tpfinalintento\tpfinal (1)\tpfinal\tpfinal\obj\Debug\net6.0-windows\tpfinal.dll
+C:\Users\maia2\OneDrive\Escritorio\tpfinalintento\tpfinal (1)\tpfinal\tpfinal\obj\Debug\net6.0-windows\refint\tpfinal.dll
+C:\Users\maia2\OneDrive\Escritorio\tpfinalintento\tpfinal (1)\tpfinal\tpfinal\obj\Debug\net6.0-windows\tpfinal.pdb
+C:\Users\maia2\OneDrive\Escritorio\tpfinalintento\tpfinal (1)\tpfinal\tpfinal\obj\Debug\net6.0-windows\tpfinal.genruntimeconfig.cache
+C:\Users\maia2\OneDrive\Escritorio\tpfinalintento\tpfinal (1)\tpfinal\tpfinal\obj\Debug\net6.0-windows\ref\tpfinal.dll
