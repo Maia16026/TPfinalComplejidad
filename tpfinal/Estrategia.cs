@@ -27,25 +27,74 @@ namespace tpfinal
 
         public String Consulta1(ArbolGeneral<DatoDistancia> arbol)
         {
-            string resutl = "Implementar";
-            return resutl;
+            string resultado= "";
+            foreach(var hijo in arbol.getHijos())
+            {
+                if(hijo.esHoja())
+                {
+                    resultado+= hijo.getDatoRaiz()+"\n";
+                }
+                else
+                {
+                    resultado+= Consulta1(hijo);
+                }
+            }
+            return resultado;
         }
 
 
         public String Consulta2(ArbolGeneral<DatoDistancia> arbol)
         {
-            string result = "Implementar";
-
-            return result;
+            return extensionConsulta2(arbol,"");
+        }
+        private String extensionConsulta2(ArbolGeneral<DatoDistancia> arbol, string camino)
+        {
+            string resultado="";
+            string nuevocamino= camino+arbol.getDatoRaiz();
+            foreach(var elemento in arbol.getHijos())
+            {
+                if(elemento.esHoja())
+                {
+                    resultado+="Camino: "+ nuevocamino+"→"+ elemento.getDatoRaiz()+"\n";
+                }
+                else
+                {
+                    resultado+= extensionConsulta2(elemento, nuevocamino);
+                }
+            }
+            return resultado;
         }
 
 
 
         public String Consulta3(ArbolGeneral<DatoDistancia> arbol)
         {
-            string result = "Implementar";
+            string resultado = "";
+            if(arbol==null)
+            {
+                return "Arbol vacío";
+            }
+            Cola<ArbolGeneral<DatoDistancia>> c= new Cola<ArbolGeneral<DatoDistancia>>();
+            c.encolar(arbol);
+            int nivel= 0;
+            while(!c.esVacia())
+            {
+               int cantidadniveles= c.cantidadElementos();
+                resultado+="Nivel"+ nivel+":\n";
+                for(int i=0; i<cantidadniveles; i++)
+                {
+                    var aux= c.desencolar();
+                    resultado+=" "+ aux.getDatoRaiz()+ "\n";
+                    foreach(var hijo in aux.getHijos())
+                    {
+                       c.encolar(hijo); 
+                    }
+                }
+                resultado+= "\n";//salto entre niveles
+                nivel++;
+            }
 
-            return result;
+            return resultado;
         }
 
         // Ejercicio 1 — AgregarDato.
