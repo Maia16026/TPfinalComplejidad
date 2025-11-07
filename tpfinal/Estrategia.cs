@@ -68,12 +68,9 @@ namespace tpfinal
 
 
         public String Consulta3(ArbolGeneral<DatoDistancia> arbol)
-        {
-            string resultado = "";
+        {   string resultado = "";
             if(arbol==null)
-            {
-                return "Arbol vacío";
-            }
+            { return "Arbol vacío";}
             Cola<ArbolGeneral<DatoDistancia>> c= new Cola<ArbolGeneral<DatoDistancia>>();
             c.encolar(arbol);
             int nivel= 0;
@@ -82,8 +79,7 @@ namespace tpfinal
                int cantidadniveles= c.cantidadElementos();
                 resultado+="Nivel"+ nivel+":\n";
                 for(int i=0; i<cantidadniveles; i++)
-                {
-                    var aux= c.desencolar();
+                {   var aux= c.desencolar();
                     resultado+=" "+ aux.getDatoRaiz()+ "\n";
                     foreach(var hijo in aux.getHijos())
                     {
@@ -93,7 +89,6 @@ namespace tpfinal
                 resultado+= "\n";//salto entre niveles
                 nivel++;
             }
-
             return resultado;
         }
 
